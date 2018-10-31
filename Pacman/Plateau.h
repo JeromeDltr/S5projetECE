@@ -1,0 +1,12 @@
+void gotoligcol(int lig, int col);
+void AffichagePacman(Pcman *pcm);
+void AffichageBlanc(Pcman *pcm);
+void creationNiveau(char tab[12][46],int *scoreF, Pcman *ennemi);
+void CreationContour(int largeurTab, int longueurTab, int tab[20][50]);
+void GenerationAleatoireDeDiamants(int largeurTab,int LongueurTab, Objet diamants[5]);
+void AffichageScore(int *score);
+void AffichagePointDeVie(Pcman *pcm);
+int CompteurScore(int *score, Pcman *pcm, Objet diamants[5]);
+void MORT(Pcman *pcm,Pcman ennemie[3]);
+void LesFantomesNeMangesPas(Pcman *ennemi, Objet diamants[5]);
+void GenerationAleatoireDePcman(Pcman *pcm);

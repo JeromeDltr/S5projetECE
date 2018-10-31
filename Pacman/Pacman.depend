@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1540549799 source:c:\users\hussonnois maxence\desktop\infos5\pacman\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	<windows.h>
+	<time.h>
+	"deplacement.h"
+
+1540760015 c:\users\hussonnois maxence\desktop\infos5\pacman\main.h
+
+1540760635 source:c:\users\hussonnois maxence\desktop\infos5\pacman\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	<time.h>
+	<windows.h>
+	"Personnage.h"
+	"Vieautonome.h"
+	"Plateau.h"
+
+1540549798 c:\users\hussonnois maxence\desktop\infos5\pacman\fonction.h
+
+1540376296 source:c:\users\hussonnois maxence\desktop\infos5\pacman\deplacement.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	<windows.h>
+	<time.h>
+
+1540289986 c:\users\hussonnois maxence\desktop\infos5\pacman\deplacement.h
+
+1540760015 source:c:\users\hussonnois maxence\desktop\infos5\pacman\vieautonome.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	<windows.h>
+	<time.h>
+	"Plateau.h"
+	"Personnage.h"
+
+1540757229 c:\users\hussonnois maxence\desktop\infos5\pacman\vieautonome.h
+
+1540760015 source:c:\users\hussonnois maxence\desktop\infos5\pacman\personnage.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	<windows.h>
+	<time.h>
+	"Plateau.h"
+
+1540760580 source:c:\users\hussonnois maxence\desktop\infos5\pacman\plateau.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	<windows.h>
+	<time.h>
+	"Personnage.h"
+
+1540756377 c:\users\hussonnois maxence\desktop\infos5\pacman\personnage.h
+
+1540761167 c:\users\hussonnois maxence\desktop\infos5\pacman\plateau.h
+
+1540760016 source:c:\users\rémi\desktop\pacman\personnage.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	<windows.h>
+	<time.h>
+	"Plateau.h"
+
+1540760016 c:\users\rémi\desktop\pacman\main.h
+
+1540761168 c:\users\rémi\desktop\pacman\plateau.h
+
+1540761168 source:c:\users\rémi\desktop\pacman\plateau.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	<windows.h>
+	<time.h>
+	"Personnage.h"
+
+1540756378 c:\users\rémi\desktop\pacman\personnage.h
+
+1540761168 source:c:\users\rémi\desktop\pacman\vieautonome.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	<windows.h>
+	<time.h>
+	"Plateau.h"
+	"Personnage.h"
+
+1540761238 source:c:\users\rémi\desktop\pacman\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	<time.h>
+	<windows.h>
+	"Personnage.h"
+	"Vieautonome.h"
+	"Plateau.h"
+
+1540757230 c:\users\rémi\desktop\pacman\vieautonome.h
+
